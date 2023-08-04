@@ -2,9 +2,8 @@
 
 
 - 🔭 I’m currently working on WebSoft Technology Nepal Pvt. Ltd.
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Yarsa
-- 🤔 I’m looking for help with Flutter Developer
+- 🌱 I’m currently learning Laravel
+- 🤔 I’m looking for help with Laarvel Developer
 - 💬 Ask me about Laravel 
 - 📫 How to reach me: sabinaacharya180@gmail.com
 
