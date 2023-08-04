@@ -10,28 +10,25 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Yarsa
 - 🤔 I’m looking for help with Flutter Developer
 - 💬 Ask me about Laravel 
-- 📫 How to reach me: surajadhikari0018@gmail.com
+- 📫 How to reach me: sabinaacharya180@gmail.com
 
 - Find me on
 
     [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/surajadhikari_18/)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=suraja18&theme=onedark)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=sabuacharya&theme=onedark)]
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraja18&theme=merko&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabuacharya&theme=merko&hide_progress=true)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraja18&theme=merko&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabuacharya&theme=merko&show_icons=true)
 
 
 ### Language & Tool:  
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,cs,cpp,java,dotnet,php,git,github,linux,mysql,vscode,flutter,python,react)]()
-<!---
-prabeshtiwari1414/prabeshtiwari1414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=suraja18&theme=merko)](https://git.io/streak-stats)
   
