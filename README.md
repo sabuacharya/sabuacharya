@@ -1,9 +1,5 @@
 ### Hi there 👋
-<!--
-**Suraja18/Suraja18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 
 - 🔭 I’m currently working on WebSoft Technology Nepal Pvt. Ltd.
 - 🌱 I’m currently learning Flutter
@@ -14,7 +10,7 @@ Here are some ideas to get you started:
 
 - Find me on
 
-    [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/surajadhikari_18/)
+    [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sabu_ach/)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sabuacharya&theme=onedark)]
@@ -30,6 +26,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,cs,cpp,java,dotnet,php,git,github,linux,mysql,vscode,flutter,python,react)]()
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=suraja18&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sabuacharya&theme=merko)](https://git.io/streak-stats)
   
 
