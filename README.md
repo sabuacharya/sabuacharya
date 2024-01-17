@@ -9,7 +9,7 @@
 
 - Find me on
 
-    [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sabu_ach/)
+    [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sabinaacharya98/)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sabuacharya&theme=onedark)]
