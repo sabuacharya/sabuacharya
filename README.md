@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on WebSoft Technology Nepal Pvt. Ltd.
 - 🌱 I’m currently learning Laravel
-- 🤔 I’m looking for help with Laarvel Developer
+- 🤔 I’m looking for help with Laravel Developer
 - 💬 Ask me about Laravel 
 - 📫 How to reach me: sabinaacharya180@gmail.com
 
